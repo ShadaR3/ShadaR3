@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShadaR3
+- 👀 I’m interested in Data science and Internet of things
+- 🌱 I’m currently learning ML algorithms
+- 💞️ I’m looking to collaborate on any interesting project in my field
+- 📫 How to reach me pavel.khudobin@gmail.com
