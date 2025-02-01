@@ -7,7 +7,7 @@ I'm currently a 1C developer transitioning into machine learning. I'm passionate
 *   Python
 *   SQL, Document-based databases
 *   Machine Learning libraries: Scikit-learn, TensorFlow, PyTorch
-*   Data Science Libraries: NumPy, SciPy
+*   Data Science Libraries: NumPy, SciPy, Pandas
 *   Data Visualization: Tableau, Matplotlib, Seaborn
 *   Hadoop
 
